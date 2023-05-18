@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(to right, bisque , rgb(158, 104, 37));
+    font-style: italic;
+    text-align: center;
+    overflow: hidden;
+}
+h1{
+    font-size: 5vw;
+    color: rgb(158, 104, 37);
+}
+h2{
+   font-size: 4vw;
+}
+button{
+    width: 10%;
+    height: 5%;
+    padding: 10px;
+    margin: 20px;
+    font-size: 1.5vw;
+    background-color: rgb(212, 164, 105);
+    border-radius: 10px;
+    border-color: rgb(158, 104, 37);
+}
+button:hover{
+    background-color: rgb(158, 104, 37);
+}
